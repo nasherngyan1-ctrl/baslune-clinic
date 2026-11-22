@@ -1,0 +1,6 @@
+{
+  "name": "BASLUNE Clinic",
+  "description": "Ultra-modern trilingual medical and aesthetic clinic in Erbil, Kurdistan Region. Crafted by BASLUNE Digital Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
